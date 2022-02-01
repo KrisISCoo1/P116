@@ -1,0 +1,14 @@
+h3{
+    font-size: 25px !important;
+} .btn-success:hover{
+    background-color: blue;
+}
+canvas{
+    animation-name:LOL;
+    animation-duration: 0.01ms;
+    animation-iteration-count: infinite;
+}
+@keyframes LOL{
+    from {box-shadow: 100px 100px 3800px black;}
+    to {box-shadow: 100px 100px 3800px white;}
+}
